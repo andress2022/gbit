@@ -15,9 +15,9 @@ Usar "estilos.css" en el ejercicio.
 <?php
 
 $dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "";
-$dbname = "test2";
+$dbuser = "id19294540_login";
+$dbpass = "Qka2U}!1QQdJPX-?";
+$dbname = "id19294540_test2";
 
 $conn = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
 
